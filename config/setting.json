@@ -1,11 +1,11 @@
 {
   "config": {
-    "branch": "master",
+    "branch": "main",
     "domain": "https://larntor.github.io",
     "email": "509129819@qq.com",
     "platform": "github",
     "privateKey": "",
-    "repository": "larn",
+    "repository": "lablog",
     "token": "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",
     "username": "larntor"
   },
