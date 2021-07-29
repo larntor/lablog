@@ -1,7 +1,7 @@
 {
   "config": {
     "branch": "main",
-    "domain": "https://larntor.github.io",
+    "domain": "https://larntor.github.io/lablog",
     "email": "509129819@qq.com",
     "platform": "github",
     "privateKey": "",
